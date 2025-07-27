@@ -8,11 +8,17 @@ This project extracts a structured outline (headings hierarchy) from PDF documen
 Round1A/
 ├── app/
 │   └── main.py                                                                       # Main script to extract PDF outlines
+
 ├── input/                                                                            # Place your input PDF files here
+
 ├── output/                                                                           # JSON output will be saved here
+
 ├── requirements.txt                                                                  # Python dependencies
+
 ├── Dockerfile                                                                        # Docker setup to run the script
+
 ├── .gitignore                                                                        # Git ignore rules
+
 └── README.md                                                                         # Project documentation
 
 
