@@ -6,6 +6,7 @@ This project extracts a structured outline (headings hierarchy) from PDF documen
 
 
 Round1A/
+
 ├── app/
 │   └── main.py                                                                       # Main script to extract PDF outlines
 
