@@ -1,0 +1,100 @@
+{
+  "title": "sample.pdf",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Introduction to Artiﬁcial Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction to Artiﬁcial Intelligence",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Keywords Artiﬁcial intelligence · Machine learning · Deep learning · Drug Introduction",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1.1 Types of AI (Based on Capabilities)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1.2 Types of AI (Based on Functionality)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.3 Domains of AI",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Subsets of Artiﬁcial Intelligence 2.1 Machine Learning",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2.2 Challenges and limitation of ML 2.3 Deep Learning",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Applications of Artiﬁcial Intelligence in Modern World 3.1 Agriculture",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.2 Business, Banking, and Finance",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "3.3 Education",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "3.4 Entertainment and Gaming 3.5 Health Care",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "3.6 Smart Cities and Transportation",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3.7 Space Exploration Artiﬁcial Intelligence for Advanced Medical Diagnosis",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4.1 Database Management",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "4.2 Advanced Medical Devices",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "4.3 Drug Design",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "4.4 Digital Consultation 4.5 Genome Editing",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Conclusion References",
+      "page": 22
+    }
+  ]
+}
