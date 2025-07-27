@@ -2,24 +2,6 @@
 
 This project extracts a structured outline (headings hierarchy) from PDF documents using PyMuPDF. It detects headings based on font size, boldness, and capitalization, then outputs the result in JSON format.
 
-## 📂 Project Structure
-
-Folder PATH listing for volume OS
-Volume serial number is BC97-68D7
-C:.
-�   Dockerfile.unknown
-�   README_Round1A.md
-�   requirements.txt
-�   structure.txt
-�   
-+---app
-�       main.py
-�       
-+---input
-�       sample.pdf
-�       
-+---output
-        sample.json
         
 
 
