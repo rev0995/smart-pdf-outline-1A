@@ -4,15 +4,24 @@ This project extracts a structured outline (headings hierarchy) from PDF documen
 
 ## 📂 Project Structure
 
-Round1A/
-├── app/
-│   └── main.py           # Main script to extract PDF outlines
-├── input/                # Place your input PDF files here
-├── output/               # JSON output will be saved here
-├── requirements.txt      # Python dependencies
-├── Dockerfile            # Docker setup to run the script
-├── .gitignore            # Git ignore rules
-└── README.md             # Project documentation
+Folder PATH listing for volume OS
+Volume serial number is BC97-68D7
+C:.
+�   Dockerfile.unknown
+�   README_Round1A.md
+�   requirements.txt
+�   structure.txt
+�   
++---app
+�       main.py
+�       
++---input
+�       sample.pdf
+�       
++---output
+        sample.json
+        
+
 
 ## 🚀 How to Run
 
